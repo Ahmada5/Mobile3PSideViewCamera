@@ -38,9 +38,6 @@ MemoryCaptures/
 # Custom folders
 /Assets/YourLibraryFolder/
 
-# Unity Package Manager
-/Packages/
-
 # Unity Hub project settings
 /ProjectSettings/
 /Temp/
