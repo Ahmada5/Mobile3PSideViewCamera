@@ -1,0 +1,78 @@
+# Unity generated files
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+
+# User-specific files
+Library/Lock/Library-ScriptAssemblies/
+
+# MemoryCaptures can get excessive in size.
+MemoryCaptures/
+
+# Visual Studio Code generated files
+.vscode/
+
+# Rider generated files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.pidb
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D generated project files
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/Library/Lock/Library-ScriptAssemblies/
+
+# Custom folders
+/Assets/YourLibraryFolder/
+
+# Unity Package Manager
+/Packages/
+
+# Unity Hub project settings
+/ProjectSettings/
+/Temp/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pidb.meta
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
